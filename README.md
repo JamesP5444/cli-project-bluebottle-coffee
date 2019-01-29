@@ -1,8 +1,8 @@
 # BluebottleCoffee
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/bluebottle_coffee`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/bluebottle_coffee`. To experiment with that code, run `./bin/bluebottle_coffee` for an interactive prompt.
 
-TODO: Delete this and the text above, and describe your gem
+You can choose your favorite Bluebottle Coffee from the list and display description and price.
 
 ## Installation
 
@@ -21,8 +21,8 @@ Or install it yourself as:
     $ gem install bluebottle_coffee
 
 ## Usage
-
-TODO: Write usage instructions here
+*
+This CLI is to check the coffee collection from Bluebottle, https://bluebottlecoffee.com/store/coffee
 
 ## Development
 
